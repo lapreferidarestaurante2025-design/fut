@@ -1,0 +1,6 @@
+{
+  "name": "Football Rewards",
+  "description": "A loyalty and prediction web application for a sports restaurant, featuring World Cup rankings, promo codes, and an administrator panel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
